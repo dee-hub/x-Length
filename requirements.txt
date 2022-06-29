@@ -1,0 +1,5 @@
+mljar-mercury
+opencv-python
+numpy
+pandas
+mediapipe
